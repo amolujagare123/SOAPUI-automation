@@ -1,0 +1,8 @@
+2021-06-04 07:23:44,088 WARN  [SoapUI] Missing folder [D:\Study\Class-Projects\CucumberPOM730Feb21\Cucumber6PMMarch21\SOAPUI-automation\ext] for external libraries
+2021-06-04 07:23:44,480 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\PC\soapui-settings.xml]
+2021-06-04 07:23:45,884 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2021-06-04 07:23:45,884 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath RegEx Match]
+2021-06-04 07:23:45,884 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath RegEx Match]
+2021-06-04 07:23:45,893 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Count]
+2021-06-04 07:23:45,894 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Count]
+2021-06-04 07:23:46,070 INFO  [WsdlProject] Loaded project from [file:/C:/Users/PC/Documents/DeckOfCards-May21-soapui-project.xml]
